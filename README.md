@@ -1,4 +1,4 @@
-# Data-Scientist-Intern-freshket
+# 🍏 Data-Scientist-Intern-freshket
 
 Data Scientist Homework Test Submission
 1. Coffee Quality Prediction 🔗 [Python code](https://github.com/taechitpt/Data-Scientist-Intern-freshket/blob/main/coffee_quality_prediction_Taechit_1.ipynb)
